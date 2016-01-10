@@ -1,0 +1,14 @@
+PODS:
+  - GIOMarqueeLabel (0.1.0)
+
+DEPENDENCIES:
+  - GIOMarqueeLabel (from `../`)
+
+EXTERNAL SOURCES:
+  GIOMarqueeLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GIOMarqueeLabel: e00e23d86f3023e4bd37dbfcca7bf3310c044558
+
+COCOAPODS: 0.39.0

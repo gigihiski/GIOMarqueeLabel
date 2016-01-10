@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import GIOMarqueeLabel
 
 class ViewController: UIViewController {
+    @IBOutlet var marqueeLabel: GIOMarqueeLabel?
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        marqueeLabel?.message = "Testing"
+        marqueeLabel?.startAnimation(time: 5.0)
     }
 
     override func didReceiveMemoryWarning() {

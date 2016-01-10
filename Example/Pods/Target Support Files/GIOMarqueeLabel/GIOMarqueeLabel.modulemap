@@ -1,0 +1,6 @@
+framework module GIOMarqueeLabel {
+  umbrella header "GIOMarqueeLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
