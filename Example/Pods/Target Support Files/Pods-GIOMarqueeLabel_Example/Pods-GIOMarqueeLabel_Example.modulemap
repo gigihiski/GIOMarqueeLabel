@@ -1,0 +1,6 @@
+framework module Pods_GIOMarqueeLabel_Example {
+  umbrella header "Pods-GIOMarqueeLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
