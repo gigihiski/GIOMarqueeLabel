@@ -1,7 +1,5 @@
 # GIOMarqueeLabel
 
-[![CI Status](http://img.shields.io/travis/Gigih Iski Prasetyawan/GIOMarqueeLabel.svg?style=flat)](https://travis-ci.org/Gigih Iski Prasetyawan/GIOMarqueeLabel)
-[![Version](https://img.shields.io/cocoapods/v/GIOMarqueeLabel.svg?style=flat-square)](http://cocoapods.org/pods/GIOMarqueeLabel)
 [![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat-square
              )](https://developer.apple.com/iphone/index.action)
 [![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat-square
