@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'GIOMarqueeLabel_Example', :exclusive => true do
+  pod "GIOMarqueeLabel", :path => "../"
+end
+
+target 'GIOMarqueeLabel_Tests', :exclusive => true do
+  pod "GIOMarqueeLabel", :path => "../"
+
+  
+end
